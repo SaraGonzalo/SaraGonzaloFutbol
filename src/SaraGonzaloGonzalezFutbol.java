@@ -29,4 +29,8 @@ public class SaraGonzaloGonzalezFutbol {
 	public String getEquipo() {
 		return(this.equipo);
 	}
+	
+	public void setEquipo(String equipo) {
+		this.equipo=equipo;
+	}
 }
