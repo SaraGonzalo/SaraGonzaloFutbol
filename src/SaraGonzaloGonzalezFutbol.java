@@ -33,4 +33,10 @@ public class SaraGonzaloGonzalezFutbol {
 	public void setEquipo(String equipo) {
 		this.equipo=equipo;
 	}
+	
+	private void imprimir() {
+		for(int i=1; i<=1000; i++) {
+			System.out.println(this.aficion);
+		}
+	}
 }
