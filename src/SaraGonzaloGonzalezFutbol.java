@@ -21,4 +21,8 @@ public class SaraGonzaloGonzalezFutbol {
 	public int getNumGoles() {
 		return(this.numGoles);
 	}
+	
+	public void setNumGoles(int numGoles) {
+		this.numGoles=numGoles;
+	}
 }
