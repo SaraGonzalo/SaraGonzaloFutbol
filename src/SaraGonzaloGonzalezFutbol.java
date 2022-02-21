@@ -13,4 +13,8 @@ public class SaraGonzaloGonzalezFutbol {
 	public String getAficion() {
 		return(this.aficion);
 	}
+	
+	public void setAficion(String aficion) {
+		this.aficion=aficion;
+	}
 }
